@@ -6,3 +6,7 @@ int main() {
     std::cout << "Hello World!";
     return 0;
 }
+
+    OH the .md means 'markdown' and is the language
+    
+    ok that makes sense
